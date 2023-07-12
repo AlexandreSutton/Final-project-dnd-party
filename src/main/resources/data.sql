@@ -1,0 +1,10 @@
+INSERT INTO player (name) VALUES ('Stine');
+INSERT INTO player (name) VALUES ('Emily');
+INSERT INTO player (name) VALUES ('Alex');
+INSERT INTO player (name) VALUES ('Karina');
+INSERT INTO player (name) VALUES ('Mike');
+INSERT INTO player (avatar_name) VALUES ('Navier');
+INSERT INTO player (avatar_name) VALUES ('Ervyn');
+INSERT INTO player (avatar_name) VALUES ('Smorgasbord');
+INSERT INTO player (avatar_name) VALUES ('Rina');
+INSERT INTO player (avatar_name) VALUES ('Sildriel');
