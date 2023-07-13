@@ -16,7 +16,6 @@ CREATE TABLE avatar (
 	location_id int NULL,
 	name varchar(100) NOT NULL,
 	race varchar(120) NOT NULL,
-	age int,
 	profession varchar(110) NOT NULL,
 	weapon varchar(50),
 	PRIMARY KEY(avatar_id),
